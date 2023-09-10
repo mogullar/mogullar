@@ -60,7 +60,7 @@
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=vuejs,nodejs,react,ts,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,react,ts,postgresql)](https://skillicons.dev)
 
 <br>
 
