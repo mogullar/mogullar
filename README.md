@@ -1,4 +1,4 @@
-<img src="https://steamuserimages-a.akamaihd.net/ugc/1691653475053484698/6395912B3241C17AC151F6E137EDC2D653C23D79/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="lain-gif" border="0">
+<img src="https://media.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif" alt="lain-gif" border="0">
 
 
 ## :vampire: 42 Common Core Student
