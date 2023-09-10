@@ -3,79 +3,23 @@
 
 ## :vampire: 42 Common Core Student
 
-`From Libft To Ft_Transcendence`
+`From Libft To push_swap`
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
 |:--|
 
 <br>
 
-`From Exam Rank 02 to Exam Rank 06`
-| :keyboard:  &nbsp; [Common Core Exams - Click Here](https://github.com/pasqualerossi/42-Exams)| 
-|:--|
-
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,md,bash,vim,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,bash,vim,py,arduino,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - C | C++ | Markdown | Bash | HTML | CSS
+> :desktop_computer:  Languages - C | C++ | JS | Bash | HTML | CSS
 
-> :hammer_and_wrench:  Tools - Git | GitHub | Stack Overflow
+> :hammer_and_wrench:  Tools - Git | GitHub
 
 > :atom:  IDEs - Vim | Visual Studio | Visual Studio Code
-
-<br>
-
-## :artist: Current Design Skills
-
-[![My Skills](https://skillicons.dev/icons?i=figma,xd,webflow,ae,wordpress)](https://skillicons.dev)
-
-<br>
-
-> :desktop_computer:  Design Tools - Figma | Adobe XD | Canva | Sketch | InVision | Balsamiq | Marvel | Proto
-
-> 🛌 Digital Suites - Adobe Suite | Microsoft Office | Google Suite
-
-> 🗣️ Team Tools - Slack | Miro | Trello | Notion | Mural | Jira | Asana
-
-> 🖥️ Web Design and Development - Framer | Wix | Webflow | Wordpress
-
-<details>
-  <summary>💻 See More Design Skills</summary>
-  
-## 🧍 User
-  📊 User Research and Analysis 
-
-  🗺️ Persona Creation and Empathy Mapping
-
-  📖 User Stories, Flows and Journey Mapping
-
-  🗣️ Conducting User Interviews and Surveys
-
-  📑 Storyboarding and User Story Creation
-
-  🧑‍🏫 User Onboarding and User Training
-
-  ❓ Iterative User Testing and Feedback Incorporation
-
-  📷 User Behavior Tracking
-
-  💻 Usability Testing
-
-<br>
-
-## 🖋️ Design
-    
-  👁️ Accessibility and Inclusive Design
-  
-  🥅 Gamification and Behavioral Design
-  
-  🌐 Multilingual and Multicultural Design Considerations
-  
-  🛒 Competitor Analysis and Benchmarking
-  
-  🖥️ A/B Testing and Iterative Design
 
 <br>
 
@@ -93,13 +37,9 @@
   
   🧑‍💻 Multi-Device and Responsive Design
   > 🖥️ Web
- 
-  > 📱 Mobile
 
   > :window: Tablet
  
-  > 👓 AR/VR
-
   > 🖥️ Dashboard
 
   > ⌚ Watch
@@ -113,8 +53,6 @@
   > 📶 Smart Home Devices and Applications
  
   > :placard: Digital Signage and Billboards
-
-  > ✋Kiosks
     
 </details>
 
@@ -122,17 +60,15 @@
 
 ## 🌱 Currently Learning
 
-[![My Skills](https://skillicons.dev/icons?i=swift,kotlin,androidstudio,docker,js,vuejs,nodejs,nestjs,firebase,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vuejs,nodejs,react,ts,postgresql)](https://skillicons.dev)
 
 <br>
 
-> :desktop_computer:  Languages - Swift | Kotlin | JavaScript | TypeScript
+> :desktop_computer:  Languages - JavaScript | TypeScript
 
-> 🧰 Tools - Xcode | Android Studio | Virtual Machine | Docker
+> :framed_picture: Frameworks - React | NodeJS | NestJS
 
-> :framed_picture: Frameworks - SwiftUI | Jetpack Compose | VueJS | NodeJS | NestJS
-
-> :fire: Database - Firebase | PostgreSQL
+> :fire: Database - PostgreSQL
 
 <br>
 
