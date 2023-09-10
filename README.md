@@ -1,4 +1,4 @@
-<img src="https://imgur.com/gOULp4G" alt="lain working gif">
+<img src="[https://imgur.com/gOULp4G](https://imgur.com/a/hs8kss5)" alt="lain working gif">
 
 
 ## :vampire: 42 Common Core Student
