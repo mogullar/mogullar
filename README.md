@@ -1,7 +1,7 @@
 <img src="https://media.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif" alt="lain-gif" border="0">
 
 
-## :vampire: 42 Common Core Student
+## 42 Common Core Student
 
 `From Libft To push_swap`
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
