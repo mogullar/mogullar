@@ -11,7 +11,7 @@
 
 ## 🧑‍💻 Current Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,bash,vim,py,arduino,vscode,stackoverflow,html,css,github,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,bash,vim,py,arduino,vscode,html,css,github,git,visualstudio)](https://skillicons.dev)
 
 <br>
 
