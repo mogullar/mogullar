@@ -4,7 +4,7 @@
 ## 42 Common Core Student
 
 `From Libft To push_swap`
-| 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/pasqualerossi/42-Projects-Guide)|
+| 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/mogullar/42_projects/blob/main/README.md)|
 |:--|
 
 <br>
