@@ -1,4 +1,4 @@
-<blockquote class="imgur-embed-pub" lang="en" data-id="gOULp4G"><a href="https://imgur.com/gOULp4G">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/gOULp4G" alt="lain working gif">
 
 
 ## :vampire: 42 Common Core Student
