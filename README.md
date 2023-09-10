@@ -1,4 +1,4 @@
-<img src="https://www.dropbox.com/scl/fi/w23tupjukk2qrj5jv2war/lain_gif.gif?rlkey=2tgdjmyps9dde4r8wso9q3avo&dl=0" alt="lain working gif">
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/dtg0Q3q/lain-gif.gif" alt="lain-gif" border="0"></a>
 
 
 ## :vampire: 42 Common Core Student
