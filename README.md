@@ -1,5 +1,6 @@
 <img src="https://media.tenor.com/ZwiXDI5sKe0AAAAC/lain-serial-experiments-lain.gif" alt="lain-gif" border="0">
 
+<p style="font-size: x-large;">Kendi hedefime varmak istiyorum, kendi yolumda ilerliyorum; tereddüt edenlerin ve ağırdan alanların üzerinden atlayacağım.</p>
 
 ## 42 Common Core Student
 
