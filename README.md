@@ -4,7 +4,7 @@
 
 ## 42 Common Core Student
 
-`From Libft To push_swap`
+`From Libft To Philosophers`
 | 🖥️  &nbsp; [Common Core Projects - Click Here](https://github.com/mogullar/42_projects/blob/main/README.md)|
 |:--|
 
